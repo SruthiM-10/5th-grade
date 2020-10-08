@@ -1,3 +1,4 @@
+# Write a Python program to remove and print every third number from a list of numbers until the list becomes empty.
 lst = []
 e = int(input("Enter number of elements : "))
 for i in range(0, e):
