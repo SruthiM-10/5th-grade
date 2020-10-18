@@ -1,6 +1,6 @@
 # Write a Python program to create all possible strings by using 'a', 'e', 'i', 'o', 'u'. Use the characters exactly once.
 import random
-char_list = ['a','e','i','o','u']
+char_list = ['a', 'e', 'i', 'o', 'u']
 # to find number of total combinations
 combos = 5 * 4 * 3 * 2 * 1
 for i in range(combos):
