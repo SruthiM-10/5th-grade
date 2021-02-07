@@ -1,3 +1,4 @@
+# Given a list of directions to spin, "left" or "right", return an integer of how many full 360° rotations were made. Note that each word in the list counts as a 90° rotation in that direction.
 def spin_around(lst):
     n = len(lst)
     count = 0
