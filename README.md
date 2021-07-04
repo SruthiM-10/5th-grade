@@ -1,2 +1,2 @@
 # 5th-grade
-Genric Python Programs
+Generic Python Programs
